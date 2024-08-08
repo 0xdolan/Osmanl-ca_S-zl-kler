@@ -32,9 +32,9 @@ Download and install the required and recommended software / apps for using `MDi
 
 - ### iOS (iPhone / iPad)
 
-  [**Download Eudct (Paid Version)**](https://apps.apple.com/ca/app/%E6%AC%A7%E8%B7%AF%E8%AF%8D%E5%85%B8-eudic-%E5%A2%9E%E5%BC%BA%E7%89%88/id393670998)
+  [**Download Eudic (Paid Version)**](https://apps.apple.com/ca/app/%E6%AC%A7%E8%B7%AF%E8%AF%8D%E5%85%B8-eudic-%E5%A2%9E%E5%BC%BA%E7%89%88/id393670998)
 
-  [**Download Eudct (Free Version)**](https://apps.apple.com/ca/app/%E6%AC%A7%E8%B7%AF%E8%AF%8D%E5%85%B8/id367278030) (Recommended)
+  [**Download Eudic (Free Version)**](https://apps.apple.com/ca/app/%E6%AC%A7%E8%B7%AF%E8%AF%8D%E5%85%B8/id367278030) (Recommended)
 
   [**Download Mdict (Paid Version)**](https://itunes.apple.com/cn/app/mdict/id389083586?mt=8)
 
