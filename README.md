@@ -98,11 +98,11 @@ Note: **DO NOT RENAME!**
 
 ## Screenshots
 
-<img src="/screenshots/iOS/001.jpg" alt="logo" width="600" style="border-radius: 25px; border: 2px solid #ededed;" />
+![Osmanlıca Sözlük Screenshot 001](/screenshots/iOS/001.jpg)
 
-<img src="/screenshots/iOS/002.jpg" alt="logo" width="600" style="border-radius: 25px; border: 2px solid #ededed;" />
+![Osmanlıca Sözlük Screenshot 002](/screenshots/iOS/002.jpg)
 
-<img src="/screenshots/iOS/003.jpg" alt="logo" width="600" style="border-radius: 25px; border: 2px solid #ededed;" />
+![Osmanlıca Sözlük Screenshot 003](/screenshots/iOS/003.jpg)
 
 ## Contact me
 
